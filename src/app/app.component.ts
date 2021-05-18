@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component } from '@angular/core';//@ viene de libreria privada google paga la libreria angular hospedad en npm
 
 @Component({
   selector: 'scotia-root',
